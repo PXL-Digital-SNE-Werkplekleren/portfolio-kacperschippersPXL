@@ -6,27 +6,90 @@ Ik was al sinds jong af aan geïnteresseerd in IT, ik had al jaren kleine projec
 # Mijn beeld van dit beroep
 Door WPL heeft et mijn laten zien dat Systeem en netwerkbeheer crucialen rollen zyn in het dagelijks leven en in het moderne IT-infrastructuur van organisaties. We zijn belangrijk voor het beveiligen van de servers waar soms miljoenen mensen op zitten, dit kan van alles gaan tot instagram tot google, of soms zelfs ziekenhuizen. het is nodig om altijd een veiligen en efficienten gegevensoverdracht en communicatie te hebben in een bedrijf. Tijdens WPL en onze lessen kregen wij het zicht in hoe ze dat in bedrijven doen en welke stappen ze namen om dat te doen. Ik heb wel opgemerkt dat dit niet makkelijk is een zeer veel werk vraagt, maar wanneer ge dit kunt dat dit makkelijker gaat. Je hebt de juiste denkwijze nodig voor dit werk.
 # Competenties systemen en netwerken
-Graduaat in het Systeem- en Netwerkbeheer
-⬇️ Opleidingsspecifieke leerresultaten
-ROL	       INSTALLATEUR
-OLR 1	De student installeert, configureert en test professionele netwerkinfrastructuur volgens de noden van de organisatie op basis van een bestaand plan.
-OLR 2	De student installeert, configureert en test clients, servers en randapparatuur in een professionele virtuele of fysieke omgeving.
-OLR 3	De student installeert en configureert besturingssystemen, applicaties en netwerkservices.
-OLR 4	De student herkent veiligheidsrisico’s, informeert en sensibiliseert de eindgebruiker en past de relevante procedures en best practices inzake systeem- en netwerkbeveiliging toe.
-ROL	    BEHEERDER-TROUBLESHOOTER
-OLR 5	De student onderhoudt besturingssystemen, applicaties en netwerkservices.
-OLR 6	De student automatiseert repetitieve taken in een systeem- en netwerkinfrastructuur.
-OLR 7	De student past principes van datacommunicatie en netwerken toe om een systeem- en netwerkinfrastructuur te monitoren, problemen op te lossen.
-OLR 8	De student bepaalt proactief wat nodig is om de continuïteit van de systeem- en netwerkinfrastructuur van de organisatie te garanderen en kaart deze noden aan bij de relevante betrokkenen.
-ROL	    COMMUNICATOR-ONDERSTEUNER
-OLR 9	De student ondersteunt de gebruikers bij het optimaal en veilig gebruik van de besturingssystemen, applicaties en netwerkservices.
-OLR 10	De student verzamelt informatie, documenteert, communiceert en rapporteert efficiënt over het geleverde werk, aangepast aan het doelpubliek en gebruikt hiervoor het gepaste Engelstalige vakjargon.
-OLR 11	De student heeft inzicht in de werking van een IT organisatie, werkt constructief en actief samen in een multidisciplinair team en participeert actief tijdens overlegmomenten.
-ROL	    LEVENSLANG LERENDE IT-PROFESSIONAL
-OLR 12	De student handelt deontologisch en gaat op een professionele manier om met data en privacy. De gegradueerde past de relevante wetgeving toe.
-OLR 13	De student onderhoudt zijn deskundigheidsniveau door relevante IT-ontwikkelingen op te volgen.
-OLR 14	De student is zelfkritisch, ontwikkelt de nodige zelfkennis en gebruikt deze om zijn persoonlijke en professionele groei te bevorderen.
-
+<table>
+    <thead>
+        <tr>
+            <th colspan=2> Graduaat in het Systeem- en Netwerkbeheer </th>
+        </tr>
+        <tr>
+            <td colspan=2 align="left"> ⬇️  Opleidingsspecifieke leerresultaten </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr bgcolor="green">
+            <td width=10% > ROL </td>
+            <td> INSTALLATEUR </td>
+        </tr>
+        <tr>
+            <td> OLR 1 </td>
+            <td> De student installeert, configureert en test professionele netwerkinfrastructuur volgens de noden van de organisatie op basis van een bestaand plan. </td>
+        </tr>
+        <tr>
+            <td> OLR 2 </td>
+            <td> De student installeert, configureert en test clients, servers en randapparatuur in een professionele virtuele of fysieke omgeving. </td>
+        </tr>
+        <tr>
+            <td> OLR 3 </td>
+            <td> De student installeert en configureert besturingssystemen, applicaties en netwerkservices. </td>
+        </tr>
+        <tr>
+            <td> OLR 4 </td>
+            <td> De student herkent veiligheidsrisico’s, informeert en sensibiliseert de eindgebruiker en past de relevante procedures en best practices inzake systeem- en netwerkbeveiliging toe. </td>
+        </tr>
+        <tr>
+            <td> ROL </td>
+            <td> BEHEERDER-TROUBLESHOOTER </td>
+        </tr>
+        <tr>
+            <td> OLR 5 </td>
+            <td> De student onderhoudt besturingssystemen, applicaties en netwerkservices. </td>
+        </tr>
+        <tr>
+            <td> OLR 6 </td>
+            <td> De student automatiseert repetitieve taken in een systeem- en netwerkinfrastructuur. </td>
+        </tr>
+        <tr> 
+            <td> OLR 7 </td>
+            <td> De student past principes van datacommunicatie en netwerken toe om een systeem- en netwerkinfrastructuur te monitoren, problemen op te lossen. </td>
+        </tr>
+        <tr> 
+            <td> OLR 8 </td>
+            <td> De student bepaalt proactief wat nodig is om de continuïteit van de systeem- en netwerkinfrastructuur van de organisatie te garanderen en kaart deze noden aan bij de relevante betrokkenen. </td>
+        </tr>
+        <tr> 
+            <td> ROL </td>
+            <td> COMMUNICATOR-ONDERSTEUNER </td>
+        </tr>
+        <tr> 
+            <td> OLR 9 </td>
+            <td> De student ondersteunt de gebruikers bij het optimaal en veilig gebruik van de besturingssystemen, applicaties en netwerkservices. </td>
+        </tr>
+        <tr> 
+            <td> OLR 10 </td>
+            <td> De student verzamelt informatie, documenteert, communiceert en rapporteert efficiënt over het geleverde werk, aangepast aan het doelpubliek en gebruikt hiervoor het gepaste Engelstalige vakjargon. </td>
+        </tr>
+        <tr> 
+            <td> OLR 11 </td>
+            <td> De student heeft inzicht in de werking van een IT organisatie, werkt constructief en actief samen in een multidisciplinair team en participeert actief tijdens overlegmomenten. </td>
+        </tr>
+        <tr> 
+            <td> ROL </td>
+            <td> LEVENSLANG LERENDE IT-PROFESSIONAL </td>
+        </tr>
+        <tr> 
+            <td> OLR 12 </td>
+            <td> De student handelt deontologisch en gaat op een professionele manier om met data en privacy. De gegradueerde past de relevante wetgeving toe. </td>
+        </tr>
+        <tr> 
+            <td> OLR 13 </td>
+            <td> De student onderhoudt zijn deskundigheidsniveau door relevante IT-ontwikkelingen op te volgen. </td>
+        </tr>
+        <tr> 
+            <td> OLR 14 </td>
+            <td> De student is zelfkritisch, ontwikkelt de nodige zelfkennis en gebruikt deze om zijn persoonlijke en professionele groei te bevorderen. </td>
+        </tr>
+    </tbody>
+</table>
 # Mijn evolutie tijdens WPL1
 Belangrijke leermomnten van WPL1
 -Inzicht in hoe bedrijven problemen aanpakken
