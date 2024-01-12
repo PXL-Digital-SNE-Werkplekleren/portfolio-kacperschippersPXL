@@ -3,7 +3,7 @@
 ## Overzicht ontwikkelingsgesprekken WPL 1
 # Mijn keuze voor de opleiding
 Ik was al sinds jong af aan geïnteresseerd in IT, ik had al jaren kleine projectjes gemaakt, en daarom had ik voor een IT-gerichte opleiding gekozen. Ik vind Windows en Linux het meest interessant, omdat ik later aan servers wil werken/beheren. Ik zou het liefst dit in kleine/middelgrote firma's willen doen, het liefst voor een bedrijf dat werkt aan iets dat de wereld verbeterd.
-# Mijn beeld van dit beroep
+### Mijn beeld van dit beroep
 Door WPL heeft het mijn laten zien dat Systeem en netwerkbeheer crucialen rollen zijn in het dagelijks leven en in het moderne IT-infrastructuur van organisaties. We zijn belangrijk voor het beveiligen van de servers waar soms miljoenen mensen op zitten, dit kan van alles gaan tot instagram tot Google, of soms zelfs ziekenhuizen. Het is nodig om altijd een veiligen en efficiënten gegevensoverdracht en communicatie te hebben in een bedrijf. Tijdens WPL en onze lessen kregen wij het zicht in hoe ze dat in bedrijven doen en welke stappen ze namen om dat te doen. Ik heb wel opgemerkt dat dit niet makkelijk is een zeer veel werk vraagt, maar wanneer ge dit kunt dat dit makkelijker gaat. Je hebt de juiste denkwijze nodig voor dit werk.
 # Competenties systemen en netwerken
 <table>
@@ -90,36 +90,33 @@ Door WPL heeft het mijn laten zien dat Systeem en netwerkbeheer crucialen rollen
         </tr>
     </tbody>
 </table>
-# Mijn evolutie tijdens WPL1
+### Mijn evolutie tijdens WPL1
 
-Belangrijke leermomnten van WPL1
+Belangrijke leermomenten van WPL1
 
--Inzicht in hoe bedrijven problemen aanpakken
+- Inzicht in hoe bedrijven problemen aanpakken
 
--talstelsel; Hierbij heb ik geleerd hoe je Binair, hexadecimaal, octaal, decimaal kan berekenen, dit kan ik gebruiken voor verschillende aspecten van IT, zoals Netwerk, Cybersecurity en linux
+- talstelsel; Hierbij heb ik geleerd hoe je Binair, hexadecimaal, octaal, decimaal kan berekenen, dit kan ik gebruiken voor verschillende aspecten van IT, zoals Netwerk, Cybersecurity en Linux
 
--Hoe je correct moet plannen voor je opdrachten en of je examens
+- Hoe je correct moet plannen voor je opdrachten en of je examens
 
-
-Sterkte punten die ik tijdens me eerste semester heb geidentificeerd
+Sterkte punten die ik tijdens mijn eerste semester heb geïdentificeerd
 
 Technische skills:
 
--Netwerkbeheer, ik heb geleerd routers en switches intestellen en te configureren
+- Netwerkbeheer, ik heb geleerd routers en switches in te stellen en te configureren
 
--Systeembeheer, ik heb de basis geleerd van hoe je Windows en Linux apparaten moet beheren en moet configuren 
-
+- Systeembeheer, ik heb de basis geleerd van hoe je Windows en Linux apparaten moet beheren en moet configuren
 
 Soft skills:
 
--Stressvestendigheid, ik heb gemerkt uit mezelf dat ik heel goed terug stress kan tijdens zeer intensieve en drukke momenten.
+- Stressbestendigheid, ik heb gemerkt uit mezelf dat ik heel goed terug stress kan tijdens zeer intensieve en drukke momenten.
 
--Zelfmotivatie, door de testen die ze moesten doen kwam et er naar uit dat ik zeer goed mezelf motiveer om mijn best te doen voor een betere toekomst
-ontwikkelpunten
+-  Zelfmotivatie, door de testen die ze moesten doen kwam het er naar uit dat ik zeer goed mezelf motiveer om mijn best te doen voor een betere toekomst ontwikkelpunten
 
--Communicatieve vaardigheden
+- Communicatieve vaardigheden
 
--Tijdsbeheer
+- Tijdsbeheer
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
