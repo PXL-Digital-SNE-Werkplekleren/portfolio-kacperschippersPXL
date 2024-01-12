@@ -90,6 +90,7 @@ Door WPL heeft het mijn laten zien dat Systeem en netwerkbeheer crucialen rollen
         </tr>
     </tbody>
 </table>
+
 ### Mijn evalutie tijdens WPL1
 
 Belangrijke leermomenten van WPL1
