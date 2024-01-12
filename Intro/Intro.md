@@ -3,24 +3,4 @@ Een portfolio is voor mij als eerste een hulpmiddel om mij leer- en werkervaring
 
 Aan de hand van deze portfolio kunnen mijn coaches mijn meer doelgericht helpen zodat wanneer ik afgestudeerd ben dat ik al de mentaliteit heb en de vaardigheden heb om verder naar mijn doel te gaan.
 # persoonlijke info
-Naam:           Schippers Kacper
-
-Leeftijd:       19
-
-Adres:          Priesterse heidestraat 48
-
-GSM:            0468185875
-
-E-mail:         kacperschippers@gmail.com
-
-Diploma's:      6de middelbehaar HANDEL TSO
-
-Certificaten:   /
-
-Werkervaringen: 
--TDL Lummen | Stage | Administratie | 2021-2021
--Mcdonalds halen | Jobstudent | keuken | 2023-2023
-
-Vrijwilligerswerk: /
-
-Hobby's: Fitness | Gamen | Fietsen
+![](https://cdn.discordapp.com/attachments/814959081331752970/1195420585023508633/image.png?ex=65b3ed2d&is=65a1782d&hm=87094484d96f9b2ec651ddf7d6d1f07efe3661d9697a3b6223693e84fa95be86&)
