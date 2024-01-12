@@ -1,9 +1,9 @@
 # Reflectie
 
-## Reflectie WPL 1
-1.
+### Reflectie WPL 1
+##Xfactor
 
-2.
+##Gastsprekers
 
 #Niels Aerts (Xpose)
 
@@ -26,8 +26,10 @@ ze wisten wel waar over ze praatte, en ik heb respect dat ze dit al gedaan heeft
 #Vladimir Vets en Djen Van Rompay (Tergos)
 
 Ik heb hier eigenlijk niks aan gehad, misschien zou dit handig geweest zijn in onze 2de jaar. het is wel handig dat ik weet dat ik naar zo firmas kan gaan om voor een job te zoeken.
-## Reflectie WPL 2
 
-## Reflectie WPL 3
+##Slotevaluatie
+### Reflectie WPL 2
 
-## Reflectie WPL 4
+### Reflectie WPL 3
+
+### Reflectie WPL 4
