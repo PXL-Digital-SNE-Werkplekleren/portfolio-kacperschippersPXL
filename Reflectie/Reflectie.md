@@ -1,7 +1,64 @@
 # Reflectie
 
 # Reflectie WPL 1
-## Xfactor
+
+## X-factor
+
+
+### (Em)passie
+
+**Wat is jouw passie? Hoe houdt dit verband met de opleiding die je bent aangevat?**
+
+Ik vind problemen oplossen 1 van de leukste dingen, ik heb al sinds klein af aan zo dingen leuk gevonden en nu dat ik wat meer aan computers werk, werk ik er aan tot dat een probleem is opgelost. Dit geeft me motivatie om door te gaan, zo weet ik dat ik altijd mezelf kan verbeteren.
+
+
+**Wat geeft jouw energie en Goesting? En hoe zie je dit in je opleiding die je bent aangevat?**
+
+Het gevoel dat je krijgt wanneer je iets te goei oplost, als je bijvoorbeeld. Aan een probleem vast zit voor een paar dagen en dan opeens oplost, dit geeft me motivatie om door te gaan en meer van deze soort problemen op te lossen.
+
+
+**Hoe zie je jezelf in dialoog gaan met anderen in de opleiding die je bent aangevat?**
+
+Ik zie het net als in de klas, dat je met respect luistert wanneer de persoon praat en dat je aandachtig de informatie er uit haalt en dit dan ook omgekeerd als ik praat. 
+
+
+
+### Ondernemend & innovatief
+
+**Wat versta jij onder een ken-doementaliteit  (ondernemend zijn in de brede zin van het woord) en hoe zie je dat in de opleiding die je bent aangevat?**
+
+Hoe ik het zie, is de ken-doementaliteit dat je probleemoplossend moet denken en aan elke probleem moet werken, je moet kritisch nadenken over hoe je het wilt aanpakken.
+Zelfstandig werken, je moet ook zelf het initiatief kunnen nemen en niet altijd wachten op je medestudenten om actie te nemen.
+Continu leren, dat je jezelf moet blijven onderhouden, hiermee wil ik zeggen dat je moet blijven leren, want alles kan heel snel veranderen
+
+
+**Hoe ver sta jij op dit moment al in een ken-doementaliteit?**
+
+Ik vind dat ik al ver sta maar nog niet ver genoeg, ik moet soms meer het initiatief nemen en beter kritisch denken. Ik weet wel dat ik hier mezelf in moet verbeteren als ik een kans wil hebben op de werkvloer 
+
+
+### (internationaal) samen(net)werken
+
+**Hoe ziet jouw netwerk er op dit moment uit? Kan je dit netwerk inzetten in functie van de opleiding die je hebt aangevat?**
+
+Mijn netwerk ziet er niet het beste uit, ik heb bv veel mensen die ik ken in de opleiding, maar ik heb maar een paar mensen buiten de opleiding van PXL, ik ken bv mensen van Proximus en een aantal bedrijven in America. Dus ik kan het op dit moment nog niet helemaal in functie zetten, maar ik probeer wel constant mijn netwerk te vergroten
+
+
+**Hoe zou jij internationaal samen kunnen werken in de opleiding die je hebt aangevat?**
+
+Op dit moment zou het mij dit niet echt lukken, maar ik geloof wel dat ik in een jaar of 2 een veel betere netwerk heb, ik probeer ook vaak in forums etc. mijn netwerk te vergroten 
+
+
+### Multi- & disciplinariteit
+
+**Wat weet je op dit moment al over de inhouden van je opleiding?**
+
+Op dit moment zou ik zeggen dat ik de basis ken van de opleiding, op sommige specifieke onderwerpen ken ik wel wat meer.
+
+
+**Met welke andere disciplines (opleidingen / beroepen / ...) zou jij in aanraking kunnen komen in je opleiding? **
+
+Als ik in een bedrijf werk als serverbeheer zou ik met bijna alles in contact komen, en zou ik ook moeten weten hoe hun te werk gaan, zodat ik alles tegoed kan instellen voor hun Needs, hier probeer ik mezelf te verbeteren door nu studentenjobs te nemen in verschillende gebieden zodat ik een basis ken van hoe mensen te werk gaan in andere beroepen.
 
 
 ## Gastsprekers
