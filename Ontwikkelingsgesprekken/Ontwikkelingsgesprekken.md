@@ -91,21 +91,36 @@ Door WPL heeft et mijn laten zien dat Systeem en netwerkbeheer crucialen rollen 
     </tbody>
 </table>
 # Mijn evolutie tijdens WPL1
+
 Belangrijke leermomnten van WPL1
+
 -Inzicht in hoe bedrijven problemen aanpakken
+
 -talstelsel; Hierbij heb ik geleerd hoe je Binair, hexadecimaal, octaal, decimaal kan berekenen, dit kan ik gebruiken voor verschillende aspecten van IT, zoals Netwerk, Cybersecurity en linux
+
 -Hoe je correct moet plannen voor je opdrachten en of je examens
 
+
 Sterkte punten die ik tijdens me eerste semester heb geidentificeerd
+
 Technische skills:
+
 -Netwerkbeheer, ik heb geleerd routers en switches intestellen en te configureren
+
 -Systeembeheer, ik heb de basis geleerd van hoe je Windows en Linux apparaten moet beheren en moet configuren 
+
+
 Soft skills:
+
 -Stressvestendigheid, ik heb gemerkt uit mezelf dat ik heel goed terug stress kan tijdens zeer intensieve en drukke momenten.
+
 -Zelfmotivatie, door de testen die ze moesten doen kwam et er naar uit dat ik zeer goed mezelf motiveer om mijn best te doen voor een betere toekomst
 ontwikkelpunten
+
 -Communicatieve vaardigheden
+
 -Tijdsbeheer
+
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
