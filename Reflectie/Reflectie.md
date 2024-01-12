@@ -3,6 +3,7 @@
 # Reflectie WPL 1
 
 ## X-factor
+![](https://cdn.discordapp.com/attachments/814959081331752970/1195411186238361731/image.png?ex=65b3e46c&is=65a16f6c&hm=93734c4137f6a00e97b86e8aecdf915d889c914dfa2366d4296048a2efeb4b18&)
 
 
 ### (Em)passie
