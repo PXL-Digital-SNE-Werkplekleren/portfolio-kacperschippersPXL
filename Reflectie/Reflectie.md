@@ -27,7 +27,7 @@ ze wisten wel waar over ze praatte, en ik heb respect dat ze dit al gedaan heeft
 
 Ik heb hier eigenlijk niks aan gehad, misschien zou dit handig geweest zijn in onze 2de jaar. het is wel handig dat ik weet dat ik naar zo firmas kan gaan om voor een job te zoeken.
 
-##Slotevaluatie
+## Slotevaluatie
 # Reflectie WPL 2
 
 # Reflectie WPL 3
