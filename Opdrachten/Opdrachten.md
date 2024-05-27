@@ -36,7 +36,18 @@ Bij deze opdracht moest ik een basis configuratie maken dat bij elke netwerk als
 
 Bij deze opdracht moesten we een app maken voor onze gsm/pc dat we volgend jaar kunnen gebruiken voor onze stage waar we naar onze OLR's kan zoeken via trefwoorden dat we zelf hebben uitgekozen. Ik heb geleerd uit deze opdracht hoe je zelfstandig efficiënt te werk gaat en hoe je bepaalde dingen tegoed moet opzoeken om zelf dingen te leren.
 
+## Opdrachten WPL 2
+  hier zitten een groot assortiment aan opdrachten dit gaat van security tot windows tot it org2.
+### IT org2
+  We moesten bij deze PE een project maken voor een bedrijf, hier hebben we het bedrijf TDL voor gekozen en we gingen kijken om elke truck een internet connectie te geven.
+### Networks 2, 3 PE's
+  We moesten 3 opdrachten maken die gingen van makkelijk nr moeilijk, we moesten van een schema een network config maken.
 
+### Welke vond je interessant en waarom?
+1 van me favoriet was WPL2, we mochten hier alles zelf uitvogelen, we mochten eigen alternatieven gebruiken dit liet me denken dat ik zelf iets deed ipv. de leerkracht zijn oplossing kopieren op een manier. Dit gaf mij een gevoel dat ik het kon.
+
+### Wat heb je er vooral uit geleerd?
+Ik heb er vooral leren dingen uitvogelen zelf laten opzoeken en leren op me eentje iets te doen. dit is de eerste keer da we zo breed iets zelf mochten doen, en dit was echt een geweldige ervaring.
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
