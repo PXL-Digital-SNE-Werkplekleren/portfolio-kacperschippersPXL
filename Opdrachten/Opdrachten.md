@@ -37,6 +37,7 @@ Bij deze opdracht moest ik een basis configuratie maken dat bij elke netwerk als
 Bij deze opdracht moesten we een app maken voor onze gsm/pc dat we volgend jaar kunnen gebruiken voor onze stage waar we naar onze OLR's kan zoeken via trefwoorden dat we zelf hebben uitgekozen. Ik heb geleerd uit deze opdracht hoe je zelfstandig efficiënt te werk gaat en hoe je bepaalde dingen tegoed moet opzoeken om zelf dingen te leren.
 
 ## Opdrachten WPL 2
+### WPL2
   hier zitten een groot assortiment aan opdrachten dit gaat van security tot windows tot it org2.
 ### IT org2
   We moesten bij deze PE een project maken voor een bedrijf, hier hebben we het bedrijf TDL voor gekozen en we gingen kijken om elke truck een internet connectie te geven.
