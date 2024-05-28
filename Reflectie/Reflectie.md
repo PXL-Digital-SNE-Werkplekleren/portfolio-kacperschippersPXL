@@ -107,27 +107,39 @@ Ik zou zeggen dat WPL1 u een basis geeft over IT, het is een beetje van alles. H
 Ik wil voor al leren hoe het daadwerkelijk is op de werkvloer, ik heb wel al stage gedaan als administratie, maar ik zou niet kunnen inzien hoe groot het verschil is voor dagelijks werk.
 
 # Reflectie WPL 2
-## Handshake Event
-Ik heb kennis gemaakt met een aantal bedrijven, ik heb bij de handshake event veel geleerd over de werking van bepaalde IT bedrijven.
-Er kwam ook een bedrijf terug waarvan we een gastseminarie hadden gekregen (Nathan Reviers van Carglass)
+We hebben heel veel opdrachten individueel gemaakt, maar een aantal opdrachten heb ik een aatnal opdrachten samen met men collegas gedaan, hieronder vind je een opsomming van taken
 
-## Groepsproject
-Ik heb heel veel dingen bijgeleerd van de groepsprojecten, je kan niet altijd je team vertrouwen met alles, je moet zelf kunnen inzien als andere mensen iets gaan kunnen of niet, dit gaat je helpen later als je opdrachten moet uitdelen aan collega's.
-Ik heb hier ook in geleerd hoe je tegoei moet communiceren met uw collega's op de werkvloer en hoe je tegoeie meetings houdt.
-Het heeft me ook heel veel kennis gegeven, we moesten heel veel dingen doen waarvan we nog nooit iets gehoord hebben, hierdoor leren we zelf dingen te opzoeken en zelf rond te zoeken hoe iets in elkaar steekt.
+Users aanmaken op windows: hier moest ik een script maken, dat via powershell users van een csv bestand maakte, deze moesten tot een OU gelijk toegevoegd worden.
 
+Linux desktops aan AD: we moesten alle Linux pcs toevoegen aan de windows AD dit ging vrij gemakkelijk en was in een aantal minuten gedaan, je hebt wel een basis kennis hiervoor nodig voor alle configs alles in te vullen.
 
+Pi-hole: Hierbij moesten we een aparte linux client maken waar we pi-hole hebben geinstalleerd, dit zorgt ervoor dat bepaalde sites niet reachable zijn voor de studenten.
 
-**Van welk resultaat van WPL2 ben je vooral trots en waarom?**
-Ik ben zeer trots op de eerdere paar sprint bij WPL2, ik heb hiervoor m'n uiterste best gedaan. Ik ben ook blij over hoe ik het bij networks2 heb gedaan.
-  
-### Slotevaluatie
-**Wat weet je al over de soort van job die je later wil uitoefenen?**
-Ik wil laten in een de cyber security of syteem beheer sectie zitten, dit intereseert mij het meeste.
-**Welk inzicht heeft WPL2 jou gebracht?**
-Hoe je correct met een team moet werken en dat je kan samenwerken en alleen kunt werken, dit zijn een van de belangrijkste skills die je als ITer kunt leren.
-**Wat hoop je in WPL3 te leren en ontdekken? Wat zijn je voornemens?**
-Ik hoop dat ik verder kan leren met mn basis uit te breiden over systemen, dit zou super handig zijn voor in de toekomst. Wat WPL3 mij kan geven is een geweldige ervaring voor m'n job later.
+Personal firewall:  een persoonlijke firewall zodat de leerlingen niet met elkaar kunnen communiceren en alleen naar de leerkracht kunnen communiceren voor de FTP server.
+
+Firewall: Ik heb de poorten en Vaste ips en poolranges gemaakr voor alle pc's en servers. hiermee kunt alle servers en pc communiceren met wat ze nodig hebben.
+
+monitoring tool: Een applicatie dat op de windows ICT staat, hiermee kan je alle servers en services bekijken en hoe ze draaien.
+
+### Beschrijf hoe je de opdrachten hebt ervaren (wat lukte je goed / wat ging minder goed)
+
+De opdrachten lukten wel goed, ik had wel gemerkt dat ik op bepaalde dingen een te kleine kennis had over iets, dit had me een beetje vertraagd.
+De firewall lukte me goed, ik vond dit eerst moeilijk, maar na een tijdje had ik dit onder de knie en ging et veel sneller en makkelijker.
+
+monitoring tool: dit ging goed, ik vond dit ook een zeer interessante onderwerp om over te werken. ik heb hier geen problemen mee gehad.
+
+Users aanmaken: dit ging heel slecht, ik kon pas laat er aan beginne en had hier veel te weining kennis voor om correct te kunnen doen.
+
+### hoe was jullie teamsamenwerking
+Onze teamswerking was goed, als we hulp nodig hadden gingen we gelijk elkaar helpen. dit deden we heel de sprints door.
+We hadden wel soms momenten dat we te laat om hulp vroegden. tege de einde van sprint 4 hadden we dit probleem niet meer.
+
+### hoe ben jij gegroeid op het vlak van technische skills en soft skills
+Mijn technise skills zyn allemaal gestegen maar ik merk nog steeds een tekort. hiervoor ga ik zeker nog zelf thuis aan werken om mn basis nog beter te krijgen.
+
+Bij mijn soft skills hebk bij sommigen aspecten een daling gezien, ik heb gemerkt bij lange projecten dat ik de laatste paar weken 0 motivatie had, ook al was dit ook door persoonlijke redenen moet ik hier nog steeds aan kunnen werken.
+maar bij bv. stressbestendigheid ben ik wel beter worden en kan ik nu veel beter tegen stress.
+Over het rest zijn me soft skills het zelfde gebleven, niet veel verbetering.
 
 # Reflectie WPL 3
 
