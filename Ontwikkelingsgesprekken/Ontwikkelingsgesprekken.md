@@ -121,40 +121,7 @@ Soft skills:
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
-### Mijn evolutie tijdens WPL2
-Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen
-maken. Voorbeelden vind je in het voorbeeld-portfolio.
-
-Mijn belangrijke leermomenten van WPL2 waren de volgende:
-* Inzicht in hoe een bedrijf ten werk gaat
-* Hoe je zelfstandig en samen moet werken
-
-
-Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
-Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
-Technische skills:
-* Research skills
-      Ik heb heel veel leren researchen voordat ik iets doe, dit kan ik toepassen bij beide systeem beheer als netwerk
-* Linux (Ubuntu)
-      Ik heb heel veel gewerkt met ubuntu tijdens WPL2 en heb hier heel veel verbetering in gezien.
-
-
-Soft skills:
-* Tijdsbeheer
-        We moesten tussen al onze opdrachten alles op een specifieke tijd zetten, anders zouden we niet genoeg tijd hebben voor alles te leren/smaken
-* Flexibiliteit
-* Kritish denken
-        We moesten bij WPL2 vaak kritish denken over waarom een probleem ni tegoei zat te werken.
-* Zelfstandigheid
-* Teamwork
-
-
-Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<br />
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
-* Kritish denken
-* Zelfmotivatie
-
-
+Zie Opdrachten en Reflectie
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
