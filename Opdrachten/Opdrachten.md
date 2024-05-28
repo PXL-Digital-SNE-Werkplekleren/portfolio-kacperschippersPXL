@@ -38,17 +38,10 @@ Bij deze opdracht moesten we een app maken voor onze gsm/pc dat we volgend jaar 
 
 ## Opdrachten WPL 2
 ### WPL2
-  hier zitten een groot assortiment aan opdrachten dit gaat van security tot windows tot it org2.
-### IT org2
-  We moesten bij deze PE een project maken voor een bedrijf, hier hebben we het bedrijf TDL voor gekozen en we gingen kijken om elke truck een internet connectie te geven.
-### Networks 2, 3 PE's
-  We moesten 3 opdrachten maken die gingen van makkelijk nr moeilijk, we moesten van een schema een network config maken.
+We hebben veel soorten technische opdrachten gedaan, ik heb bv. de firewall gedaan hierbij moesten ze bepaalde poorten openzetten. Hierdoor konden bv. andere computers met het internet communiceren, en sommige niet. We moesten ook meerdere computers opstellen en daarna configureren, ik heb hierbij de Linux pc toegevoegd aan een server. We moesten ook een aantal oplossingen brengen tot problemen, 1 van die oplossingen is een monitoring tool die ik heb ingesteld. hiermee kan je bv. de server bekijken als die iets te traag loopt. we moesten ook een aantal studenten (neppen) aanmaken hiermee hebben we een script gemaakt dit zet ze automatisch geordend en in een structuur. het automatiseren van dit soort taken helpt hard voor de efficientie van hoe je kan werken. We moesten ervoor zorgen dat deze studenten niet op porno sites en gambling sites konden, en hiervoor hebben we een PI-hole server gedownload dit blockeerd de communicatie tussen de studenten en de niet toegelaten sites.
 
-### Welke vond je interessant en waarom?
-1 van me favoriet was WPL2, we mochten hier alles zelf uitvogelen, we mochten eigen alternatieven gebruiken dit liet me denken dat ik zelf iets deed ipv. de leerkracht zijn oplossing kopieren op een manier. Dit gaf mij een gevoel dat ik het kon.
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/assets/116544549/d8a20bde-13d6-469d-9c16-0deec9c30e03)
 
-### Wat heb je er vooral uit geleerd?
-Ik heb er vooral leren dingen uitvogelen zelf laten opzoeken en leren op me eentje iets te doen. dit is de eerste keer da we zo breed iets zelf mochten doen, en dit was echt een geweldige ervaring.
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
