@@ -40,7 +40,8 @@ Bij deze opdracht moesten we een app maken voor onze gsm/pc dat we volgend jaar 
 ### WPL2
 We hebben veel soorten technische opdrachten gedaan, ik heb bv. de firewall gedaan hierbij moesten ze bepaalde poorten openzetten. Hierdoor konden bv. andere computers met het internet communiceren, en sommige niet. We moesten ook meerdere computers opstellen en daarna configureren, ik heb hierbij de Linux pc toegevoegd aan een server. We moesten ook een aantal oplossingen brengen tot problemen, 1 van die oplossingen is een monitoring tool die ik heb ingesteld. hiermee kan je bv. de server bekijken als die iets te traag loopt. we moesten ook een aantal studenten (neppen) aanmaken hiermee hebben we een script gemaakt dit zet ze automatisch geordend en in een structuur. het automatiseren van dit soort taken helpt hard voor de efficientie van hoe je kan werken. We moesten ervoor zorgen dat deze studenten niet op porno sites en gambling sites konden, en hiervoor hebben we een PI-hole server gedownload dit blockeerd de communicatie tussen de studenten en de niet toegelaten sites.
 
-
+### Firewall
+Ik heb de firewall rules gedaan dit is maar een fragment van de oefening, ik moest alle poorten voor bv de server openen, ik moest regeleen voor alle communicatie tussen de pcs --> servers, servers --> internet en nog meer, dit moest bij heel wat oefeningen extra rules worden toegevoegd dit is omdat bepaalde taken specifieke poorten nodig hadden waardoor ze konden communiceren. ik moest hierbij heel goed communiceren met mn team voor wanneer hn een IP nodig hadden of een specifieke poort naar een pc moesten hebben. Dit opent ook een oog naar hoe ik de security kan verbeteren. ik moet heel goed kijken naar welke poorten ik open doe, als ik de foute poort open doet kan dit een security threat worden naar de data van de school en de medewerkers.
 
 ## Opdrachten WPL 3
 
