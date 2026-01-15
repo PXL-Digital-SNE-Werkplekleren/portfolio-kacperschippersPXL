@@ -12,11 +12,5 @@ In de semester dat ik bij het bedrijf SerSo moest werken heb ik mooie resultaten
 Ik heb zeker ook meer repetitieven taken moeten doen zoals laptops preppen ect, maar je moet alles ook eens tegoei gedaan hebben. Ik heb zelf wel ondervonden dat ik het network aspect van mijn stage leuker vond dan bv. servers instellen.
 Morpheus is een virtual omgeving waar VM essentials onderdeel van is, ik moest dit in een labo omgeving klaar zetten en documenteren, dit was een leuke uitdaging, hiermee ben ik nog niet klaar. Ik moet namelijk nog documenteren hoe je een migratie doen van Vsphere. Ik heb hier door heel veel leerkansen gehad en ik heb zeker veel bij geleerd dit semester. Ik voel ook dat ik nu beter kan inschatten bv. wat een bedrijf nodig heeft. 
 
-<center>
-  <object data="../images/WPL3-LogBoek_KacperSchippers.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="../images/WPL3-LogBoek_KacperSchippers.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/WPL3-LogBoek_KacperSchippers.pdf">Download PDF</a>.</p>
-    </embed>
-  </object>
-</center>
+[WPL3-Logboek_KacperSchippers.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-LogBoek_KacperSchippers.pdf)
 ## Logboek WPL4
