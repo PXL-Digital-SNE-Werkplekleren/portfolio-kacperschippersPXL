@@ -44,5 +44,9 @@ We hebben veel soorten technische opdrachten gedaan, ik heb bv. de firewall geda
 Ik heb de firewall rules gedaan dit is maar een fragment van de oefening, ik moest alle poorten voor bv de server openen, ik moest regeleen voor alle communicatie tussen de pcs --> servers, servers --> internet en nog meer, dit moest bij heel wat oefeningen extra rules worden toegevoegd dit is omdat bepaalde taken specifieke poorten nodig hadden waardoor ze konden communiceren. ik moest hierbij heel goed communiceren met mn team voor wanneer hn een IP nodig hadden of een specifieke poort naar een pc moesten hebben. Dit opent ook een oog naar hoe ik de security kan verbeteren. ik moet heel goed kijken naar welke poorten ik open doe, als ik de foute poort open doet kan dit een security threat worden naar de data van de school en de medewerkers.
 
 ## Opdrachten WPL 3
+Opdracht Pitch Werkplek
+Opdracht Probleemsituatie
+Opdracht Probleem-met-advies
+Opdracht Werkkwaliteiten
 
 ## Opdrachten WPL 4
