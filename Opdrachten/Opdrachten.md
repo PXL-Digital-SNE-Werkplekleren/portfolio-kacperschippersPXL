@@ -44,9 +44,25 @@ We hebben veel soorten technische opdrachten gedaan, ik heb bv. de firewall geda
 Ik heb de firewall rules gedaan dit is maar een fragment van de oefening, ik moest alle poorten voor bv de server openen, ik moest regeleen voor alle communicatie tussen de pcs --> servers, servers --> internet en nog meer, dit moest bij heel wat oefeningen extra rules worden toegevoegd dit is omdat bepaalde taken specifieke poorten nodig hadden waardoor ze konden communiceren. ik moest hierbij heel goed communiceren met mn team voor wanneer hn een IP nodig hadden of een specifieke poort naar een pc moesten hebben. Dit opent ook een oog naar hoe ik de security kan verbeteren. ik moet heel goed kijken naar welke poorten ik open doe, als ik de foute poort open doet kan dit een security threat worden naar de data van de school en de medewerkers.
 
 ## Opdrachten WPL 3
-Opdracht Pitch Werkplek
-Opdracht Probleemsituatie
-Opdracht Probleem-met-advies
-Opdracht Werkkwaliteiten
+[Opdracht Voorbereiding Planningsgesprek](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/Voorbereiding%2Bplanningsgesprek.pdf)
+
+Ik moest van OLR 1 t.e.m. 9 uitleggen wat mijn verwachtingen waren opmerkingen en of opmerkingen
+
+[Opdracht Pitch](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3_Intervisie_Pitch_Schippers_Kacper.pdf)
+
+Ik moest een pitch maken waar ik zei wat mijn bedrijf doet.
+
+
+[Opdracht ProbleemSituatie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/ProbleemsituatieWPL32SneBSchippersKacper.pdf)
+
+Ik moest een aantal problemen noteren die ik had op de werkplaats, voor in de les te bespreken
+
+[Opdracht ProbleemAdvies](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/ProbleemsituatieWPL32SneBSchippersKacper_Naverwerking.pdf)
+
+In de les hebben we advies gekregen over de problemen van de vorige opdracht, dit heb ik dan genoteerd.
+
+[Opdracht Werkkwaliteiten](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-SNE_Intervisie_Leerdoelen%2BWerkkwaliteiten_SchippersKacper_24.pdf)
+
+Hier moesten we paar van onze kwaliteiten zeggen, en wat de valkuilen, uitdagingen en allergieën zijn van die kwaliteiten
 
 ## Opdrachten WPL 4
