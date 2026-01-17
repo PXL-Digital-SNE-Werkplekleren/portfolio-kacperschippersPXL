@@ -103,13 +103,13 @@ Belangrijke leermomenten van WPL1
 
 Sterkte punten die ik tijdens mijn eerste semester heb geïdentificeerd
 
-Technische skills:
+Technische Skills:
 
 - Netwerkbeheer, ik heb geleerd routers en switches in te stellen en te configureren
 
 - Systeembeheer, ik heb de basis geleerd van hoe je Windows en Linux apparaten moet beheren en moet configuren
 
-Soft skills:
+Soft Skills:
 
 - Stressbestendigheid, ik heb gemerkt uit mezelf dat ik heel goed terug stress kan tijdens zeer intensieve en drukke momenten.
 
@@ -123,5 +123,31 @@ Soft skills:
 ## Overzicht ontwikkelingsgesprekken WPL 2
 Zie Opdrachten en Reflectie
 ## Overzicht ontwikkelingsgesprekken WPL 3
+Tijdens mijn stage bij SerSo, was ik verast hoe weinig technische skills ik eigenlijk had voor het daadwerkelijke IT wereld. De basis die ik had had me zeer goed geholpen om verder bij te leren. In het begin had ik wat moeite om alles gewoon te raken, maar na elke week leerde ik meer and meer bij, en kreeg ik meer zelfvertrouwen om meer zelfstandig te werken. Mijn collega's waren ook altijd zeer motiverend en hadden nooit problemen met mij te helpen.
+Ik kreeg een mooie inzicht op hoe de help desk werkte, ik moest tickets meevolgen, zelf tickets doen, laptop preps ect.. hierbij leerde ik meer mijn plan te trekken. dit vind ik ook hoe ik het beste ben gegroeid. Mijn stage mentor gaf me soms taken van "vindt uit hoe je morpheus configureert" ik vind dat dit soort situaties mijn kennis harder stimuleert dan gewoon, 24/7 meevolgen met wat iemand moet doen.
+
+Ook heb ik een persoonlijke groei gehad, ik heb geleerd dat ik er niet alleen voor sta, en dat ik altijd terrecht kan bij mijn collega's. ik heb ook gemerkt dat je niet altijd serieus moet zijn, er moet gelachen worden.
+Ik kan nu ook beter prioriteiten stellen, voor wat daadwerkelijker als eerst moet gedaan worden, dit is zeker handig voor als ik ergens vast op zit dat ik er niet aan blijf maar gewoon aan iets ander verder werk en daar dan later op terug kom met een andere blik op het probleem. Mijn zelfvertrouwen is ook verbeterd, ik durf nu dingen zonder mezelf te twijfelen natuurlijk het is goed dat je soms twijfelt, maar er moet een balans in zitten. Doordat mijn zelfvertrouwen is verbeterd kan ik ook beter zelfstandig werken.
+
+Technische Skills:
+
+-Unifi switches/AP
+-Firebox (firewall)
+-Morpheus (VMEssentials)
+
+Soft Skills:
+
+-Zelfstandig
+-Zelfvertrouwen
+-Prioriteiten kennen
+
+Feedback
+[WPL3-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-FG_KacperSchippers.pdf)
+Algemene Feedback:
+Geen klachten, ligt goed in de groep, leert vlot bij, krijgt inzichten in de effectieve werking op de werkplek.
+Bij het functionerings gesprek had ik als feedback dat ik gewoon moest blijven doorgaan hoe ik bezig was, ik moest nog een paar OLR's doen die ik toen nog 0 keer had gedaan.
+Ik moest bij de team meetings in de ochtend mee doen.
+[WPL3-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-EG_KacperSchippers.pdf)
+Tijdens de evaluatiegesprek werd er gezecht dat mijn collega's vonden dat ik hard werkte, ze hadden ook nooit een probleem met mijn werking.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
