@@ -131,23 +131,32 @@ Ik kan nu ook beter prioriteiten stellen, voor wat daadwerkelijker als eerst moe
 
 Technische Skills:
 
+
 -Unifi switches/AP
+
 -Firebox (firewall)
+
 -Morpheus (VMEssentials)
 
 Soft Skills:
 
 -Zelfstandig
+
 -Zelfvertrouwen
+
 -Prioriteiten kennen
 
 Feedback
 [WPL3-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-FG_KacperSchippers.pdf)
+
 Algemene Feedback:
+
 Geen klachten, ligt goed in de groep, leert vlot bij, krijgt inzichten in de effectieve werking op de werkplek.
 Bij het functionerings gesprek had ik als feedback dat ik gewoon moest blijven doorgaan hoe ik bezig was, ik moest nog een paar OLR's doen die ik toen nog 0 keer had gedaan.
 Ik moest bij de team meetings in de ochtend mee doen.
+
 [WPL3-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-EG_KacperSchippers.pdf)
+
 Tijdens de evaluatiegesprek werd er gezecht dat mijn collega's vonden dat ik hard werkte, ze hadden ook nooit een probleem met mijn werking.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
