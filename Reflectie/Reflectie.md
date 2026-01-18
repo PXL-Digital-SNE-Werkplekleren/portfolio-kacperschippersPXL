@@ -142,5 +142,106 @@ maar bij bv. stressbestendigheid ben ik wel beter worden en kan ik nu veel beter
 Over het rest zijn me soft skills het zelfde gebleven, niet veel verbetering.
 
 # Reflectie WPL 3
+-Positieve punten
+
+Tijdens WPL3 heb ik veel dingen bijgeleerd die me heeft laten groeien als een persoon, mijn technische vaardigheden zijn fors omhoog gegaan, maar ook mijn soft skills zijn verbeterd. Ik ben zeer blij dat ik een stage bedrijf heb gevonden waar ik niet bang moet zijn om fouten te maken, waar mijn collega's mij motiveren om beter te doen. Dit stimuleert mijn groei op technische vlak en soft skills.
+
+-Positieve realisaties
+Ervaring opgedaan met het instal en config gedeelte van servers en workstations
+
+Back-ups controleren
+
+updates en patches uitvoeren voor veiligheid en stabiliteit
+
+Ik heb nu een inzicht van een daadwerkelijk bedrijfsnetwerk en hoe het word opgebouwd
+
+Monteren van switches, AP's, Unifi cameras.
+
+Firewall configureren.
+
+Technische problemen oplossen, en via een duidelijke manier dat de klant het begrijpt.
+
+Samenwerken met collegas.
+
+-Positieve op de werkplek
+
+Waarmee ik zeer content ben is dat ik in een omgeving zit waar iedereen elkaar helpt, en waar gelachen kan worden.
+Iedereen is zeer vriendelijk en ze hebben wel altijd iets interessant te zeggen waarvan ik nog niks wist.
+Het bedrijf wilt dat we samenwerken en op elkaar kunnen rekenen.
+
+-samenwerking
+
+Samenwerking met mijn coach ging altijd vlot, hij heeft het soms natuurlijk wel druk, maar ik kan altijd terrecht bij mijn collegas voor vragen. Mijn collega's hebben geen probleem om bij mij effe te zitten, en mij te helpen met welk probleem ik ook wel niet heb. Ik moet wel soms zelf meer durven te zeggen, ik denk omdat ik zelf denk dat ik niet op hetzelfde technische niveau zit als hun, dat mijn eigen inzicht op iets automatisch minder goed gaat zijn, ook al is dat niet zo altijd.
+
+-Hoe verliep je samenwerking met je werkplekcoach en collega's
+
+Dit ging wel altijd zeer goed, zoals eerder gezegd ze zijn altijd klaar voor mij te helpen, en willen dat ik veel bijleer. toen ik ergens iets moest doen on-site kreeg ik vaak ook positieve feedback, dat ik goed samenwerkte. 
+Dit motiveerd mij ook om nog beter te doen.
+
+-Wat zijn je werkpunten op het gebied van samenwerking en hoe ga je dit aanpakken?
+
+Ik moet durven te spreken wat ik denk, soms zijn mijn ideeen goed in de situatie.
+
+Meer proactief zijn
+
+-Uitdagingen
+
+Er waren veel uitdaging, De werking. Ik ben zeker niet gewoon hoe je alles moet schrijven in een ticket, ik snap natuurlijk waarom, maar ik moest er wel effe aan wennen.
+Natuurlijk ook op technische vlak, ik moet nog veel bijleren, ik werk nu met veel soorten software dat ik nog nooit heb gebruikt.
+Ook tijdens iets drukkere momenten had ik wat moeite met mijn prioriteiten te bepalen, welke taak het belangrijkste is op dat moment.
+
+-Wat ging moeilijk tijdens Werkplekleren en waarom?
+
+Zoals ik zei bij uitdagingen, op technische vlak wist ik nog niet genoeg. dus bij veel tickets, on-site situaties moest ik vaak dingen opzoeken, natuurlijk na een paar keer moet je dit niet meer, maar in het begin duurde "makkelijkere tickets" mij iets langer omdat ik dit nog nooit heb moeten doen.
+
+-Welke taken of situaties waren uitdagend voor jou?
+
+Ik moest 1 keer on-site printer problemen oplossen, ik heb maar een paar keer dit vooraf gedaan en nog nooit met custom software, dit lukte wel maar ik moest eerst heel de programma beetje bekijken welke opties ect er allemaal waren.
+Ook toen ik een UNIFI AP moest configureren, moest ik effe wennen aan de UI
+
+-Wat zie je als verbeterpunten voor jezelf tijdens WPL4? Wat kan je zelf doen om het te verbeteren? Wat kan je hierover aan je werkplekcoach vragen? welk hulp zou welkom zijn?
+
+
+Ik moet meer proactief zijn en problemen gelijk zelf op te lossen zonder dit soms te vragen.
+
+Beter de overlegmomenten ect in plannen, zodat deze altijd op tijd gebeuren. Ik kan hierdoor mijn werkplekcoach face to face vragen wanneer dit mogelijk is.
+
+Ik wil als het mogelijk is nog iets meer zelfstandiger werken om te kijken hoe ik dan presteer.
+Ik zou dit kunnen vragen aan me werkplekcoach als ik een opdracht hiervoor krijg.
+
+-Vooruitblik
+
+In WPL4 zie ik nog zeer veel mogelijkheden om mij verder te ontwikkelen bij SerSo, waar ik zeker will bijgroeien is het network aspect, maar ik wil ook mijn technische aspect bij security en server omgevingen ook zeker verhogen.
+
+Ik kijk ook uit naar mijn graduaats proef, en wat dit ook kan zijn, ik vind het zeer interessant om dingen zelf uit te zoeken en documenteren.
+
+Tijdens deze periode wil ik ook verder ontwikkelen door meer proactief te werken en meer iniatief te nemen binnen de IT team en zelf problemen signaleren en met oplossingen komen. Ik will ook vaker vragen stellen, en samen mee nadenken voor oplossinge en verbeteringen van de systemen en of network.
+
+Ik wil ook helemaal alleen helpdesk doen, wat ook was opgenoemd bij de EG, zo will ik proberen de klanten actief te informeren over probelemen, hierdoor denk ik dat ik mijn technische skills harder stimuleer om te groeien, want dan zit ik in een soorts tijd druk. ook denk ik dat mijn soft skills verbeter, mijn zelfvertrouwen, verantwoordelijkheid en professionele houding en vakjargon.
+
+-Wat kan je nog meer bijleren? op welk vlak kan je je op je werkplek nog ontwikkelen
+
+Ik wil meer bijleren specifiek over het network gedeelde, dit denk ik wel dat me meer interesseert. ik wil qua soft skills meer proactief worden, dit heb ik gemerkt dat ik wel mis.
+Natuurlijk moet ik nog veel bijleren in alle onderwerpen, printers, specifieke software van VPN, telefonie, back ups maar dit doe ik het beste door het daadwerkelijk te doen.
+
+-Welke talenten bezit je vandaag en gebruik je die op je werkplek? welke talenten zou je nog meer kunnen inzetten tijdens WPL3?
+
+Ik beaschik over verschillende talenten die ik actief kan inzetten op de werkplaats, ik heb een goeie basis dat me een goeie technische inzicht geeft, waardoor ik beter probleem oplossend kan denken. dit heb ik al vaak gebruikt bij bv configueren van switches helpdesk tickets.
+
+Daarnaast ben ik leergierig en ik sta altijd klaar om bij te leren dingen te onderzoeken, wanneer ik ergens moeite heb probeer ik altijd tijdens de pauze of thuis hier over bij te leren en relevante videos op te zoeken waarvan ik kan leren, ik probeer soms ook voor te zijn en al kennende problemen op te zoeken zodat ik hier op voorbereid ben.
+
+Op communicatieve vlakte denk ik al dat ik goed zit, ik ken zeker mijn vakjargon al, alleen durf ik soms te zenuwachtig te zijn, bv helpdesk bellen hier van had ik wel al moeite voor een lange tijd, maar ik denk dat dit gewoon een kleine obstakel is.
+
+ik ben zeer nauwkeurig, ik volg alle procedures op, en als er nog geen SOP voor het probleem is is (SOP = Handleiding) maak ik dit, ik probeer altijd het zo makkelijk mogelijk te maken zodat iedereen het begrijp, IT achtergrond of niet.
+
+-Welke taken wil je in WPL4 nog graag doen en waarom?
+
+Switches, AP, firewall config. Dit zou ik graag willen doen omdat dit mij interesseert, en ik dit zelf goed kan.
+
+Morpheus: Ik was niet klaar hiermee en vond het vrij interessant hoe het ten werking ging en het opzoeken en documenteren van mijn werking vond ik vrij uitdagend en motiverend om verder te werken. ik moet hiervan nog een migratie doen.
+
+On-site instalaties: Dit is altijd interessant je leert nieuwe mensen kennen, werkingen van verschillende soorten bedrijven en je leert bij van iedereen die je ontmoet, niet altijd IT gerelateerd maar nog steeds zeer fijn.
+
+
 
 # Reflectie WPL 4
