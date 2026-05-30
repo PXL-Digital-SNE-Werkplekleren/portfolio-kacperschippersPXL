@@ -253,4 +253,6 @@ Ik heb zeer hard genoten van mijn tijd bij SerSo. Al mijn collega's hielpen me w
 
 Ik vind wel dat mijn technische inzicht nog te klein is, er zijn superveel tools waarvan ik niet weet hoe ze helemaal werken of die ik nog niet gehoord heb, die vaak worden gebruikt. Dit is iets waarvan ik denk dat het mij kan helpen, om te weten wat ik moet gebruiken voor welke taak.
 
+[WPL4 Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4_Eindreflectie.pdf)
+
 Ik wil verder leren over network gerelatateerde onderwerpen, dit interesseert me het meest. Ik heb ook een interesse in MSP's in plaats van normale IT-afdelingen op het bedrijf, door de brede takenpakketten die je kunt krijgen.
