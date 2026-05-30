@@ -72,4 +72,4 @@ Feedback-successen-uitdaging
 
 Eindreflectie
 
-[Opdracht Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL_Eindreflectie_SchippersKacper.pdf)
+[Opdracht Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4_Eindreflectie.pdf)
