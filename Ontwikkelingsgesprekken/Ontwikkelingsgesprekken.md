@@ -160,11 +160,9 @@ Ik moest bij de team meetings in de ochtend mee doen.
 Tijdens de evaluatiegesprek werd er gezecht dat mijn collega's vonden dat ik hard werkte, ze hadden ook nooit een probleem met mijn werking.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
+Tijdens WPL4 heb ik veel bijgeleerd qua technische skills heb ik een diepere kennis gekregen over networking, specifieker om Unifi OS en config. Ik heb ook een diepere kennis in Apple MDM en apple profiles, ik had dit moeten gebruiken voor een klein project dat ik een Gregory moesten uitvoeren. Hierbij moesten we een kiosk profile instelled op de Ipads, waar ze alleen specifieke rechten zijn toegelaten. Ook heb ik samen met Daniel veel problemen opgelost over VPN tunnels, hierbij moesten we een workaround vinden rond de tunnel om dit tijdelijk te mitigeren, ook moesten we een cronjob regelen voor de loadbalancer voor de traffic. zodat deze om de dag restartte. Vergeleken met WPL3 zie ik dat ik een sterke groei heb in mijn technische skills.
 
-
-
-
-
+Qua soft skills heb ik vooral meer zelfvertrouwen gekregen waardoor ik ook beter zelfstandig kan werken. Ik heb ook een beter inzicht gekregen over problemen, ik denk na wat alle mogelijke problemen zijn en dan ga ik ze 1 voor 1 af. Ik vind ook uit mijn eigen dat ik veel meer iniatief pak voor taken. Iets dat ik wel nog moeiten mee heb is presentaties, ik moest een presentatie geven voor mijn collega's, ik moet nog harder werken aan mijn communicatie skills rond om publieke.
 
 
 [WPL4-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-FG-KacperSchippers.pdf)
