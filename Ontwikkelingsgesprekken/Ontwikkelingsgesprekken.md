@@ -160,3 +160,13 @@ Ik moest bij de team meetings in de ochtend mee doen.
 Tijdens de evaluatiegesprek werd er gezecht dat mijn collega's vonden dat ik hard werkte, ze hadden ook nooit een probleem met mijn werking.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
+
+
+
+
+
+
+
+[WPL4-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-FG_KacperSchippers.pdf)
+
+[WPL4-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-EG_KacperSchippers.pdf)
