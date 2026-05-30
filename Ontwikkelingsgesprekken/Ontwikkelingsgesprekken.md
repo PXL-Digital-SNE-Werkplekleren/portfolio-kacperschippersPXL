@@ -165,6 +165,11 @@ Tijdens WPL4 heb ik veel bijgeleerd qua technische skills heb ik een diepere ken
 Qua soft skills heb ik vooral meer zelfvertrouwen gekregen waardoor ik ook beter zelfstandig kan werken. Ik heb ook een beter inzicht gekregen over problemen, ik denk na wat alle mogelijke problemen zijn en dan ga ik ze 1 voor 1 af. Ik vind ook uit mijn eigen dat ik veel meer iniatief pak voor taken. Iets dat ik wel nog moeiten mee heb is presentaties, ik moest een presentatie geven voor mijn collega's, ik moet nog harder werken aan mijn communicatie skills rond om publieke.
 
 
+Toelichting:
+Zeer vlotte stage, begeleidde zelfs andere stagiairs. Valt goed in de groep. Collega's tevreden/lovend. Werkt proactief mee in het team.
+
+29-mei 11:13 door Sven Salemans
+
 [WPL4-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-FG-KacperSchippers.pdf)
 
 [WPL4-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-EG-KacperSchippers.pdf)
