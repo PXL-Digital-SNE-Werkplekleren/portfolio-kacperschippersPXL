@@ -67,6 +67,6 @@ Hier moesten we paar van onze kwaliteiten zeggen, en wat de valkuilen, uitdaging
 
 ## Opdrachten WPL 4
 Feedback-successen-uitdaging
-[Opdracht Feedback-Successen-Uitdaging](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL3-SNE_Intervisie_Leerdoelen%2BWerkkwaliteiten_SchippersKacper_24.pdf)
+[Opdracht Feedback-Successen-Uitdaging](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL_Intervisie_opdracht_2025-03_SchippersKacper.pdf)
 Eindreflectie
-[Opdracht Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL_Eindreflectie_SchippersKacper.docx)
+[Opdracht Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL_Eindreflectie_SchippersKacper.pdf)
