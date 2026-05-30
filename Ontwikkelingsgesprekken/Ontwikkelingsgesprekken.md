@@ -167,6 +167,6 @@ Tijdens de evaluatiegesprek werd er gezecht dat mijn collega's vonden dat ik har
 
 
 
-[WPL4-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-FG_KacperSchippers.pdf)
+[WPL4-FG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-FG-KacperSchippers.pdf)
 
-[WPL4-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-EG_KacperSchippers.pdf)
+[WPL4-EG_KacperSchippers](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-kacperschippersPXL/blob/main/images/WPL4-EG-KacperSchippers.pdf)
