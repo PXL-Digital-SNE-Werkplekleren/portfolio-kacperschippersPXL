@@ -247,11 +247,11 @@ On-site instalaties: Dit is altijd interessant je leert nieuwe mensen kennen, we
 # Reflectie WPL 4
 Tijdens WPL4 heb ik veel interessante vaardigheden bijgeleerd, waardoor ik een diepere en bredere kennis heb gekregen. Vergeleken met WPL3 heb ik een sterker zelfvertrouwen en weet ik hoe ik aan iets moet beginnen om een resultaat te krijgen. 
 
-Tijdens mijn stage kreeg ik een divers takenpakket. Ik moest samen met een collega switches installeren en configureren on-site. ik heb verschillende scripts moeten schrijven met PowerShell. Dit moest verschillende taken uitvoeren, zoals een service aanmaken op een probe, licenties ophalen en documenteren. Ik heb ook met een collega aan een project meegedaan waarbij ik een groot aantal iPads moest instellen en configureren, toevoegen aan een MDM en hier moest ik ook de nodige profielen voor maken die moesten voldoen aan hun criteria.
+Tijdens mijn stage kreeg ik een divers takenpakket. Ik moest samen met een collega switches installeren en configureren on-site. Ik heb verschillende scripts moeten schrijven met PowerShell. Dit moest verschillende taken uitvoeren, zoals een service aanmaken op een probe, licenties ophalen en documenteren. Ik heb ook met een collega aan een project meegedaan waarbij ik een groot aantal iPads moest instellen en configureren, toevoegen aan een MDM en hier moest ik ook de nodige profielen voor maken die moesten voldoen aan hun criteria.
 
 Ik heb zeer hard genoten van mijn tijd bij SerSo. Al mijn collega's hielpen me wanneer ik in nood was en hielpen mij om het beter te begrijpen. Ik kon altijd goed samenwerken met mijn collega's en ik werd ook behandeld als een collega.
 
-Ik vind wel dat mijn technische inzicht nog te klein is, er zijn superveel tools waarvan ik niet weet hoe ze helemaal werken of die ik nog niet gehoord heb, die vaak worden gebruikt. Dit is iets waarvan ik denk dat het mij kan helpen, om te weten wat ik moet gebruiken voor welke taak.
+Ik vind wel dat mijn technische inzicht nog te klein is. Er zijn superveel tools waarvan ik niet weet hoe ze helemaal werken of die ik nog niet gehoord heb, die vaak worden gebruikt. Dit is iets waarvan ik denk dat het mij kan helpen, om te weten wat ik moet gebruiken voor welke taak.
 
 Ik wil verder leren over network gerelatateerde onderwerpen, dit interesseert me het meest. Ik heb ook een interesse in MSP's in plaats van normale IT-afdelingen op het bedrijf, door de brede takenpakketten die je kunt krijgen.
 
